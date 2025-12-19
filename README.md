@@ -49,7 +49,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mattcas07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mattcas07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com?user=mattcas07&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
