@@ -1,63 +1,99 @@
-<!-- Encabezado centralizado con tu nombre y tagline -->
+<!-- HEADER -->
 <div align="center">
-  <h1>Hola, soy <strong>Mattcas07</strong></h1>
-  <p>Desarrollador Full-Stack | JavaScript, CSS, HTML | Construyendo proyectos reales 💻</p>
-  <!-- Puedes añadir más frameworks/lenguajes aquí -->
+  <h1>👋 Hola, soy <strong>Mattcas07</strong></h1>
+  <p>Desarrollador Full-Stack · JavaScript · Web · Proyectos reales</p>
+
+  <!-- Badges generales -->
+  <img src="https://komarev.com/ghpvc/?username=mattcas07&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mattcas07?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/mattcas07?label=Stars&style=flat&color=0e75b6" />
 </div>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy un apasionado por el desarrollo web con enfoque en crear experiencias limpias, funcionales y eficientes. Me encanta aprender nuevas tecnologías y mejorar continuamente mis proyectos personales y colaborativos. 🚀
+Soy desarrollador web enfocado en crear interfaces modernas, animaciones fluidas y aplicaciones funcionales.  
+Trabajo principalmente con **JavaScript y tecnologías web**, siempre buscando mejorar rendimiento, UX y calidad del código.
+
+- 🚀 Aprendizaje constante  
+- 🧩 Proyectos personales y experimentales  
+- 💡 Interés en animaciones, 3D y experiencias interactivas  
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Tecnologías
 
-**Lenguajes:**  
-JavaScript · HTML5 · CSS3 · SQL
+### Lenguajes
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 
-**Frameworks y Librerías:**  
-React · Node.js · Express · Bootstrap · TailwindCSS
+### Frameworks & Librerías
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css)
 
-**Otros:**  
-Git · GitHub · VS Code · REST APIs · Firebase
-
----
-
-## 🔥 Destacados
-
-Aquí algunos repositorios con lo mejor de mi trabajo:
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **mi-portafolio** | Sitio personal profesional | CSS · HTML · JS |
-| **api** | API REST pública para bots | Node.js · Express |
-| **Down-for-flarex** | Sincronización de escenas 3D multi-ventana | JavaScript |
-| **multipleWindow3dScene** | Ejemplo Three.js | Three.js · LocalStorage |
-
-> Visita mis repositorios para ver documentaciones completas y demos. 🔗
+### Herramientas
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📊 Estadísticas
+## 🔥 Proyectos destacados
 
-<!-- Estos cards se actualizan automáticamente con tus datos -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattcas07&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcas07&layout=compact&theme=github_dark)
+| Proyecto | Descripción |
+|--------|-------------|
+| **multipleWindow3dScene** | Escenas 3D sincronizadas entre ventanas |
+| **Down-for-flarex** | Sincronización multi-ventana con animaciones |
+| **api** | API REST para bots y proyectos |
+| **portafolio** | Sitio personal con animaciones modernas |
 
----
-
-## 📬 Conectemos
-
-¿Tienes una idea o quieres colaborar? Puedes encontrarme en:
-
-🔗 **GitHub:** https://github.com/mattcas07  
-🔗 **Email:** tu.email@ejemplo.com *(reemplaza con tu correo)*  
-🔗 **LinkedIn:** https://www.linkedin.com/in/tu-perfil *(opcional)*
+👉 Revisa mis repositorios para demos y documentación.
 
 ---
 
-Gracias por visitar mi perfil 👋  
-_Siempre aprendiendo y compartiendo._ 😊
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mattcas07&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mattcas07&theme=github-dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattcas07&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mattcas07&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mattcas07&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mattcas07&theme=github_dark" />
+
+---
+
+## 🏆 Logros
+
+<img src="https://github-profile-trophy.vercel.app/?username=mattcas07&theme=darkhub&no-frame=true&margin-w=10" />
+
+---
+
+## 📬 Contacto
+
+- GitHub: https://github.com/mattcas07  
+- Email: **(agrega tu email)**  
+- LinkedIn: **(opcional)**  
+
+---
+
+<div align="center">
+  <i>Construyendo, aprendiendo y mejorando cada día.</i>
+</div>
