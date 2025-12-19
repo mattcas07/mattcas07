@@ -49,7 +49,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mattcas07&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mattcas07&theme=github-compact&hide_border=true&bg_color=00000000&line=58A6FF&point=58A6FF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mattcas07&theme=github_dark&utcOffset=-3" />
+
 
 
 </div>
