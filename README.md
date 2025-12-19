@@ -72,7 +72,7 @@
 <!-- DISCORD -->
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/ID_DE_TU_DISCORD?theme=dark&bg=0d1117&borderRadius=12px" />
+<img src="https://lanyard.cnrad.dev/api/876332076226461736?theme=dark&bg=0d1117&borderRadius=12px" />
 
 </div>
 
