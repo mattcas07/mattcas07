@@ -76,7 +76,7 @@
 <!-- TROFEOS (FIX FUNCIONAL) -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mattcas07&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-trophies.vercel.app/?username=mattcas07&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
