@@ -81,6 +81,6 @@
 <!-- FOOTER ANIMADO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=120&section=footer" />
 
 </div>
